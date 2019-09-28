@@ -1,0 +1,117 @@
+img{
+  height:1200px;
+  widows: 1000px;
+  margin: auto;
+  display: block;
+  width: 970px; 
+}
+.proveedores{
+  position: absolute;
+  top: 2%;
+  left: 40%;
+  transform: translate(-25%,50%);
+  color:black;
+  font-family:Cooper Black;
+  font-size: 75%
+}
+.express{
+  position: absolute;
+  top: 12%;
+  left: 45%;
+  transform: translate(-25%,50%);
+  color:black;
+  font-size: 75%
+}
+.texto-encima{
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  transform:translate(-30%,-0%);
+}
+.empre{
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black;
+  position: absolute;
+  top:55%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+  .sinBordeCalifi{
+    border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid black;
+  position: absolute;
+  top:45%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  text-align: center;  
+  }
+  .texto{
+    position: relative;
+    top:90%;
+    left:23%;
+    margin-block-start: -69%;
+  }
+  .btn{
+    position: relative;
+    left:45%;
+    top: 5%;
+    margin-block-start: 15%;
+  }
+  .tabla{
+    position: relative;
+    left:30%;
+    top: 0%;
+    margin-block-start: 0%;
+    color: black;
+    border-block-end-color: black; 
+    text-align: center;
+    width: 38%;
+  }
+  .sinBorde {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid black;
+    position: absolute;
+    top: 30%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    color: black;
+    text-align: center
+  }
+  .texto1{  
+    position: relative;
+    top:5%;
+    left: 23%;
+    margin-block-start:2%;
+    width: 120%;
+     }
+     .fecha1{
+      position: relative;
+      top:5%;
+      left: 65%;
+      margin-block-start:5%;
+     }
+     .fecha2{
+      position: relative;
+      top:3%;
+      left: 65%;
+      margin-block-start:2%;
+     }
+     .importante{
+      position: relative;
+      top:3%;
+      left: 23%;
+      margin-block-start:4%;
+      font-size:x-small;
+     }
+     .direcci{
+      position: relative;
+      left: -25%;
+      text-align: center
+     }
